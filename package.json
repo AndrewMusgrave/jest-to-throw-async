@@ -1,0 +1,37 @@
+{
+  "name": "jest-to-throw-async",
+  "description": "Jest match for errors inasynchronous functions",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "types": "src/index.d.ts",
+  "repository": "https://github.com/AndrewMusgrave/jest-to-throw-async",
+  "author": {
+    "name": "Andrew Musgrave",
+    "url": "https://github.com/AndrewMusgrave"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "src"
+  ],
+  "dependencies": {
+    "lodash.isequal": "^4.5.0"
+  },
+  "devDependencies": {
+    "jest": "^24.7.1"
+  },
+  "keywords": [
+    "jest",
+    "matcher",
+    "matchers",
+    "expect",
+    "expects",
+    "extend",
+    "extended",
+    "test",
+    "testing",
+    "assertions"
+  ]
+}
